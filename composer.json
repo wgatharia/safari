@@ -4,6 +4,7 @@
     "require-dev": {
         "fabpot/goutte": "^3.2",
         "phpunit/phpunit": "^7.4",
-        "guzzlehttp/guzzle": "^6.3"
+        "guzzlehttp/guzzle": "^6.3",
+        "jakub-onderka/php-parallel-lint": "^1.0"
     }
 }
