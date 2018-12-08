@@ -1,5 +1,6 @@
 .idea
 .DS_Store
+.vscode
 cache.properties
 composer.lock
 composer.phar
