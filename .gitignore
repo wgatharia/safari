@@ -11,3 +11,4 @@ build/pdepend
 build/phpdox
 logs
 vendor
+nbproject
